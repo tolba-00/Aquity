@@ -1,1 +1,1 @@
-# Aquity
+# Aquity API
